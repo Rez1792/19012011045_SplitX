@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cards"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_credit_card_24"
+        android:title="Cards"/>
+    <item
+        android:id="@+id/PassBook"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="History"/>
+    <item
+        android:id="@+id/join_room"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_connect_without_contact_24"
+        android:title="Join Room"/>
+    <item
+        android:id="@+id/account"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Account"/>
+
+</menu>

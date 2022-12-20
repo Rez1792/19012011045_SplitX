@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338437033028",
+    "project_id": "splitx-f54c3",
+    "storage_bucket": "splitx-f54c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338437033028:android:f05da3ebe7181c6124c011",
+        "android_client_info": {
+          "package_name": "com.example.splitx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338437033028-qdhhlca27ugu27p312uec7chh15sopnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGrO_8xyFL5B4uGTQFu3UnOxba_y5X4fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338437033028-qdhhlca27ugu27p312uec7chh15sopnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

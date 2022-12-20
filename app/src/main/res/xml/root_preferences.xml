@@ -1,0 +1,21 @@
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <EditTextPreference
+            app:icon="@drawable/upicolor"
+            app:key="upi"
+            app:title="Your UPI Id"
+            app:useSimpleSummaryProvider="false"/>
+    <Preference
+        app:icon="@drawable/ic_baseline_person_24"
+        app:key="userName"
+        app:title="User Name"
+        app:useSimpleSummaryProvider="true"/>
+    <Preference
+        app:icon="@drawable/ic_baseline_email_24"
+        app:key="UserEmail"
+        app:title="User Email"
+        app:useSimpleSummaryProvider="true"/>
+
+
+</PreferenceScreen>

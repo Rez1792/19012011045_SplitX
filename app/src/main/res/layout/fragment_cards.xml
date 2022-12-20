@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".CardsFragment">
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/cardRecycler"/>
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+        android:id="@+id/createRoom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#b2fab4"
+        android:layout_gravity="bottom|center"
+        android:layout_margin="16dp"
+        android:textColor="@color/black"
+        android:text="Create Room"
+        app:iconTint="@color/black"
+        app:icon="@drawable/ic_baseline_add_24"
+        android:outlineSpotShadowColor="#b2fab4"
+       />
+</FrameLayout>
